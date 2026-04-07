@@ -1,5 +1,12 @@
 # 🐾 Dog API Automation Framework
 
+> [!IMPORTANT]
+> ### ⚠️ AVISO DE PROPRIEDADE E ÉTICA PROFISSIONAL
+> Este repositório é público exclusivamente para fins de **portfólio e avaliação**. 
+> A cópia total ou parcial deste código para uso em desafios ou processos seletivos é **estritamente proibida**. 
+> O histórico de commits e originalidade é monitorado. Use este material apenas como referência de estudo.
+
+---
 Este projeto consiste em uma suíte de testes automatizados para a [Dog API](https://dog.ceo/dog-api/), 
 desenvolvida com o objetivo de validar os principais endpoints de raças e imagens. A arquitetura foi 
 desenhada seguindo as melhores práticas de Engenharia de Qualidade (QE), garantindo manutenibilidade e 
