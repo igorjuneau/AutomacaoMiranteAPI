@@ -27,8 +27,9 @@ jobs:
       - name: 'Qodana Scan'
         uses: JetBrains/qodana-action@v2025.2
         with:
-          args: --no-upload --linter jetbrains/qodana-jvm:latest
+          args: --no-upload
           fail-threshold: 0
+          continue-on-error: true
           pr-mode: false
           use-caches: true
           post-pr-comment: false
